@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+img{
+    width: 300px;
+}
+.links:hover{
+    background-color: dodgerblue;
+}
+h2{
+    color: firebrick;
+}
+h1{
+    color: darkgoldenrod;
+}
+section{
+    background-color: lightpink;
+}
